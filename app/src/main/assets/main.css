@@ -1,0 +1,20 @@
+div {
+    color: white;
+}
+
+body {
+    text-align: center;
+    background-color: black;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+#div {
+    position: absolute;
+    top: 25%;
+    left: 0%;
+    right: 0%;
+}
